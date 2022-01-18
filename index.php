@@ -1,1 +1,1 @@
-<?php include_once("sort.html"); ?>
+<?php include_once("index.html"); ?>
