@@ -1,0 +1,16 @@
+body
+{
+	font-family: 'Macondo', cursive;
+	background-image: url("../img/bagq.webp"); 
+ 	background-repeat: no-repeat;
+   
+    background-size: 1600px 800px   
+}
+
+#text
+{
+	 text-align: center;
+}
+
+
+

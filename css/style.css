@@ -1,0 +1,59 @@
+
+* {
+  margin: 0px;
+  padding: 0px;
+ 
+}
+body
+{
+	font-family: 'Macondo', cursive;
+	background-image: url("../img/bgfront.jpg");
+ 	background-repeat: no-repeat;
+   font-weight: bold;
+   font-size: large;
+    background-size: 2000px 1800px ;  
+}
+
+#Info_Cont1 {
+  margin-top: 7px;
+  margin-left:450px;
+  margin-right: 450px;
+}
+
+#Info_Cont1:hover {
+  cursor: pointer;
+}
+
+section {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 20% 60% 20%;
+      grid-template-columns: 20% 60% 20%;
+}
+
+section #Info_Cont1 {
+  padding: 20%;
+}
+
+
+section #array_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 80%;
+  height: 50vh;
+  margin-left: 50px;
+  margin-right:50px;
+}
+
+
+.algos {
+  margin-left: 450px;
+  margin-bottom: 30px;
+ 
+}
+
+.hide {
+  display: none;
+}
+
